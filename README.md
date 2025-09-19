@@ -1,17 +1,4 @@
-<div class="skill-item">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" class="skill-icon-img">
-                        <div class="skill-name">Android</div>
-                    </div>
-                    <div class="skill-item">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" class="skill-icon-img">
-                        <div class="skill-name">C++</div>
-                    </div>
-                    <div class="skill-item">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" class="skill-icon-img">
-                        <div class="skill-name">C#</div>
-                    </div>
-                    <div class="skill-item">
-                        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" class=<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -322,43 +309,43 @@
                 <h3>🚀 Languages & Tools</h3>
                 <div class="skills-grid">
                     <div class="skill-item">
-                        <div class="skill-icon">🤖</div>
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" class="skill-icon-img">
                         <div class="skill-name">Android</div>
                     </div>
                     <div class="skill-item">
-                        <div class="skill-icon">⚡</div>
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" class="skill-icon-img">
                         <div class="skill-name">C++</div>
                     </div>
                     <div class="skill-item">
-                        <div class="skill-icon">🎯</div>
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" class="skill-icon-img">
                         <div class="skill-name">C#</div>
                     </div>
                     <div class="skill-item">
-                        <div class="skill-icon">🌿</div>
+                        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" class="skill-icon-img">
                         <div class="skill-name">Git</div>
                     </div>
                     <div class="skill-item">
-                        <div class="skill-icon">🌐</div>
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" class="skill-icon-img">
                         <div class="skill-name">HTML5</div>
                     </div>
                     <div class="skill-item">
-                        <div class="skill-icon">☕</div>
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" class="skill-icon-img">
                         <div class="skill-name">Java</div>
                     </div>
                     <div class="skill-item">
-                        <div class="skill-icon">🐧</div>
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" class="skill-icon-img">
                         <div class="skill-name">Linux</div>
                     </div>
                     <div class="skill-item">
-                        <div class="skill-icon">🗄️</div>
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" class="skill-icon-img">
                         <div class="skill-name">MySQL</div>
                     </div>
                     <div class="skill-item">
-                        <div class="skill-icon">🐍</div>
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" class="skill-icon-img">
                         <div class="skill-name">Python</div>
                     </div>
                     <div class="skill-item">
-                        <div class="skill-icon">🎮</div>
+                        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" class="skill-icon-img">
                         <div class="skill-name">Unity</div>
                     </div>
                 </div>

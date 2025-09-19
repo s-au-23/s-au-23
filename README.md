@@ -1,4 +1,17 @@
-<!DOCTYPE html>
+<div class="skill-item">
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" class="skill-icon-img">
+                        <div class="skill-name">Android</div>
+                    </div>
+                    <div class="skill-item">
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" class="skill-icon-img">
+                        <div class="skill-name">C++</div>
+                    </div>
+                    <div class="skill-item">
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" class="skill-icon-img">
+                        <div class="skill-name">C#</div>
+                    </div>
+                    <div class="skill-item">
+                        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" class=<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -206,19 +219,71 @@
             66% { transform: translateY(30px) rotate(240deg); }
         }
 
+        .trophy-section {
+            margin: 2rem 0;
+            display: flex;
+            justify-content: center;
+        }
+
+        .trophy-section .card {
+            max-width: 800px;
+            width: 100%;
+        }
+
+        .trophy-image {
+            width: 100%;
+            border-radius: 10px;
+            transition: transform 0.3s ease;
+        }
+
+        .trophy-image:hover {
+            transform: scale(1.02);
+        }
+
+        .profile-views {
+            text-align: center;
+            margin: 2rem 0;
+        }
+
+        .views-badge {
+            border-radius: 10px;
+            transition: transform 0.3s ease;
+            box-shadow: 0 5px 15px rgba(100, 255, 218, 0.3);
+        }
+
+        .views-badge:hover {
+            transform: scale(1.05);
+        }
+
         .github-stats {
             text-align: center;
             margin-top: 2rem;
         }
 
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 2rem;
+            margin-bottom: 2rem;
+            justify-items: center;
+        }
+
         .stats-image {
-            margin: 1rem;
-            border-radius: 10px;
-            transition: transform 0.3s ease;
+            border-radius: 15px;
+            transition: all 0.3s ease;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+            border: 2px solid rgba(100, 255, 218, 0.2);
         }
 
         .stats-image:hover {
-            transform: scale(1.02);
+            transform: scale(1.03) translateY(-5px);
+            box-shadow: 0 20px 40px rgba(100, 255, 218, 0.2);
+            border-color: #64ffda;
+        }
+
+        .streak-stat {
+            max-width: 500px;
+            width: 100%;
         }
 
         @media (max-width: 768px) {
@@ -309,12 +374,23 @@
             </a>
         </div>
 
+        <div class="trophy-section">
+            <div class="card">
+                <h3>🏆 GitHub Trophies</h3>
+                <img src="https://github-profile-trophy.vercel.app/?username=s-au-23&theme=darkhub&no-frame=true&column=3&margin-w=15" alt="GitHub Trophies" class="trophy-image">
+            </div>
+        </div>
+
+        <div class="profile-views">
+            <img src="https://komarev.com/ghpvc/?username=s-au-23&label=Profile%20views&color=64ffda&style=for-the-badge" alt="Profile Views" class="views-badge">
+        </div>
+
         <div class="github-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s-au-23&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" class="stats-image">
-            <br>
-            <img src="https://github-readme-stats.vercel.app/api?username=s-au-23&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" class="stats-image">
-            <br>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-au-23&theme=dark" alt="GitHub Streak" class="stats-image">
+            <div class="stats-grid">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s-au-23&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0f0f1e&border_color=64ffda&title_color=64ffda&text_color=e1e1e6" alt="Top Languages" class="stats-image">
+                <img src="https://github-readme-stats.vercel.app/api?username=s-au-23&show_icons=true&locale=en&theme=dark&bg_color=0f0f1e&border_color=64ffda&title_color=64ffda&text_color=e1e1e6&icon_color=64ffda" alt="GitHub Stats" class="stats-image">
+            </div>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-au-23&theme=dark&background=0f0f1e&border=64ffda&stroke=64ffda&ring=64ffda&fire=ff6b9d&currStreakLabel=64ffda" alt="GitHub Streak" class="stats-image streak-stat">
         </div>
     </div>
 

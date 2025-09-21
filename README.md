@@ -145,8 +145,9 @@
             transform: scale(1.05);
         }
 
-        .skill-icon {
-            font-size: 2rem;
+        .skill-icon-img {
+            width: 2rem;
+            height: 2rem;
             margin-bottom: 0.5rem;
         }
 

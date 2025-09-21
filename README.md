@@ -1,441 +1,185 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gauri Suryawanshi - Frontend Developer</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=64FFDA&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Gauri+Suryawanshi;A+passionate+frontend+developer+from+India;Welcome+to+my+coding+journey!" alt="Typing SVG" />
+</div>
 
-        body {
-            background: linear-gradient(135deg, #0f0f1e 0%, #1a1a2e 50%, #16213e 100%);
-            color: #e1e1e6;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            min-height: 100vh;
-            overflow-x: hidden;
-        }
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=s-au-23&label=Profile%20views&color=64ffda&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/s-au-23?label=Followers&style=for-the-badge&color=64ffda" alt="Followers" />
+</div>
 
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 2rem;
-        }
+<br/>
 
-        .header {
-            text-align: center;
-            margin-bottom: 3rem;
-            position: relative;
-        }
+## 🚀 About Me
 
-        .wave-emoji {
-            display: inline-block;
-            animation: wave 2s infinite;
-            transform-origin: 70% 70%;
-        }
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-        @keyframes wave {
-            0% { transform: rotate(0deg); }
-            10% { transform: rotate(14deg); }
-            20% { transform: rotate(-8deg); }
-            30% { transform: rotate(14deg); }
-            40% { transform: rotate(-4deg); }
-            50% { transform: rotate(10deg); }
-            60% { transform: rotate(0deg); }
-            100% { transform: rotate(0deg); }
-        }
+```yaml
+name: Gauri Suryawanshi
+located_in: India
+current_job: Frontend Developer
+education: ["Computer Science", "Web Development"]
+company: Freelancer
 
-        .typing {
-            font-size: 3rem;
-            font-weight: bold;
-            margin: 1rem 0;
-            background: linear-gradient(45deg, #64ffda, #536dfe, #ff6b9d);
-            background-size: 200% 200%;
-            -webkit-background-clip: text;
-            background-clip: text;
-            -webkit-text-fill-color: transparent;
-            animation: gradient 3s ease infinite, typing 3s steps(22) 1s both;
-            overflow: hidden;
-            white-space: nowrap;
-            border-right: 3px solid #64ffda;
-        }
+fields_of_interests:
+  - "Web Development"
+  - "Mobile App Development"
+  - "Open Source"
+  - "Game Development"
+  
+technical_background:
+  - "Frontend Development"
+  - "Version Control (Git/GitHub)"
+  - "Documentation (LaTeX)"
+  
+currently_learning: ["Advanced React", "Node.js", "Cloud Technologies"]
+2024_goal: "Contribute to Open Source projects"
+hobbies: ["Gaming", "Coding", "Learning new technologies"]
+```
 
-        @keyframes gradient {
-            0% { background-position: 0% 50%; }
-            50% { background-position: 100% 50%; }
-            100% { background-position: 0% 50%; }
-        }
+<br/>
 
-        @keyframes typing {
-            from { width: 0; }
-            to { width: 100%; }
-        }
+## 🛠️ Languages & Tools
 
-        .subtitle {
-            font-size: 1.5rem;
-            color: #64ffda;
-            margin-bottom: 2rem;
-            opacity: 0;
-            animation: fadeInUp 1s 2s both;
-        }
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="https://www.python.org">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        </a>
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.java.com">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+        </a>
+        <br>Java
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.w3schools.com/cpp/">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+        </a>
+        <br>C++
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.w3schools.com/cs/">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+        </a>
+        <br>C#
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.w3.org/html/">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+        </a>
+        <br>HTML5
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <a href="https://developer.android.com">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="48" height="48" alt="Android" />
+        </a>
+        <br>Android
+      </td>
+      <td align="center" width="96">
+        <a href="https://git-scm.com/">
+          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
+        </a>
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.linux.org/">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+        </a>
+        <br>Linux
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.mysql.com/">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+        </a>
+        <br>MySQL
+      </td>
+      <td align="center" width="96">
+        <a href="https://unity.com/">
+          <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="48" height="48" alt="Unity" />
+        </a>
+        <br>Unity
+      </td>
+    </tr>
+  </table>
+</div>
 
-        @keyframes fadeInUp {
-            from {
-                opacity: 0;
-                transform: translateY(30px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
+<br/>
 
-        .stats-section {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 2rem;
-            margin-bottom: 3rem;
-        }
+## 📊 GitHub Analytics
 
-        .card {
-            background: rgba(255, 255, 255, 0.05);
-            border-radius: 15px;
-            padding: 2rem;
-            backdrop-filter: blur(10px);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-            opacity: 0;
-            animation: fadeInUp 1s 3s both;
-        }
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=s-au-23&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=FFFFFF" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-au-23&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=FFFFFF" alt="Top Languages" />
+</div>
 
-        .card:hover {
-            transform: translateY(-10px);
-            box-shadow: 0 20px 40px rgba(100, 255, 218, 0.1);
-        }
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=s-au-23&theme=radical&hide_border=true&background=0D1117&stroke=64FFDA&ring=64FFDA&fire=FF6B9D&currStreakLabel=64FFDA" alt="GitHub Streak" />
+</div>
 
-        .card h3 {
-            color: #64ffda;
-            margin-bottom: 1rem;
-            font-size: 1.3rem;
-        }
+<br/>
 
-        .skills-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(60px, 1fr));
-            gap: 1rem;
-            margin-top: 1rem;
-        }
+## 🏆 GitHub Trophies
 
-        .skill-item {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            padding: 1rem;
-            background: rgba(255, 255, 255, 0.05);
-            border-radius: 10px;
-            transition: all 0.3s ease;
-            cursor: pointer;
-        }
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=s-au-23&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</div>
 
-        .skill-item:hover {
-            background: rgba(100, 255, 218, 0.1);
-            transform: scale(1.05);
-        }
+<br/>
 
-        .skill-icon-img {
-            width: 2rem;
-            height: 2rem;
-            margin-bottom: 0.5rem;
-        }
+## 📈 Contribution Graph
 
-        .skill-name {
-            font-size: 0.8rem;
-            text-align: center;
-        }
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s-au-23&theme=react-dark&bg_color=0D1117&hide_border=true&line=64FFDA&point=FF6B9D" alt="Contribution Graph" />
+</div>
 
-        .contact-links {
-            display: flex;
-            justify-content: center;
-            gap: 2rem;
-            margin: 2rem 0;
-        }
+<br/>
 
-        .contact-link {
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-            padding: 1rem 2rem;
-            background: rgba(100, 255, 218, 0.1);
-            border: 2px solid #64ffda;
-            border-radius: 50px;
-            color: #64ffda;
-            text-decoration: none;
-            transition: all 0.3s ease;
-        }
+## 🤝 Connect with Me
 
-        .contact-link:hover {
-            background: #64ffda;
-            color: #0f0f1e;
-            transform: translateY(-3px);
-            box-shadow: 0 10px 20px rgba(100, 255, 218, 0.3);
-        }
+<div align="center">
+  <a href="https://linkedin.com/in/gauri-suryawanshi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.codechef.com/users/band_dog_63">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="mailto:suryawanshigauri23@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
 
-        .particles {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            pointer-events: none;
-            z-index: -1;
-        }
+<br/>
 
-        .particle {
-            position: absolute;
-            background: #64ffda;
-            border-radius: 50%;
-            animation: float 6s ease-in-out infinite;
-            opacity: 0.1;
-        }
+## 💡 Random Dev Quote
 
-        @keyframes float {
-            0%, 100% { transform: translateY(0px) rotate(0deg); }
-            33% { transform: translateY(-30px) rotate(120deg); }
-            66% { transform: translateY(30px) rotate(240deg); }
-        }
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote" />
+</div>
 
-        .trophy-section {
-            margin: 2rem 0;
-            display: flex;
-            justify-content: center;
-        }
+<br/>
 
-        .trophy-section .card {
-            max-width: 800px;
-            width: 100%;
-        }
+## 🐍 Contribution Snake
 
-        .trophy-image {
-            width: 100%;
-            border-radius: 10px;
-            transition: transform 0.3s ease;
-        }
+<div align="center">
+  <img src="https://raw.githubusercontent.com/s-au-23/s-au-23/output/snake.svg" alt="Snake animation" />
+</div>
 
-        .trophy-image:hover {
-            transform: scale(1.02);
-        }
+<br/>
 
-        .profile-views {
-            text-align: center;
-            margin: 2rem 0;
-        }
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" />
+</div>
 
-        .views-badge {
-            border-radius: 10px;
-            transition: transform 0.3s ease;
-            box-shadow: 0 5px 15px rgba(100, 255, 218, 0.3);
-        }
+---
 
-        .views-badge:hover {
-            transform: scale(1.05);
-        }
-
-        .github-stats {
-            text-align: center;
-            margin-top: 2rem;
-        }
-
-        .stats-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-            gap: 2rem;
-            margin-bottom: 2rem;
-            justify-items: center;
-        }
-
-        .stats-image {
-            border-radius: 15px;
-            transition: all 0.3s ease;
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
-            border: 2px solid rgba(100, 255, 218, 0.2);
-        }
-
-        .stats-image:hover {
-            transform: scale(1.03) translateY(-5px);
-            box-shadow: 0 20px 40px rgba(100, 255, 218, 0.2);
-            border-color: #64ffda;
-        }
-
-        .streak-stat {
-            max-width: 500px;
-            width: 100%;
-        }
-
-        @media (max-width: 768px) {
-            .typing {
-                font-size: 2rem;
-            }
-            
-            .contact-links {
-                flex-direction: column;
-                align-items: center;
-            }
-            
-            .stats-section {
-                grid-template-columns: 1fr;
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="particles" id="particles"></div>
-    
-    <div class="container">
-        <div class="header">
-            <h1 class="typing">Hi <span class="wave-emoji">👋</span>, I'm Gauri Suryawanshi</h1>
-            <p class="subtitle">A passionate frontend developer from India</p>
-        </div>
-
-        <div class="stats-section">
-            <div class="card">
-                <h3>💬 About Me</h3>
-                <p>Ask me about <strong>Git, GitHub, LaTeX</strong></p>
-                <p>📫 Reach me: <strong>suryawanshigauri23@gmail.com</strong></p>
-            </div>
-
-            <div class="card">
-                <h3>🚀 Languages & Tools</h3>
-                <div class="skills-grid">
-                    <div class="skill-item">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" class="skill-icon-img">
-                        <div class="skill-name">Android</div>
-                    </div>
-                    <div class="skill-item">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" class="skill-icon-img">
-                        <div class="skill-name">C++</div>
-                    </div>
-                    <div class="skill-item">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" class="skill-icon-img">
-                        <div class="skill-name">C#</div>
-                    </div>
-                    <div class="skill-item">
-                        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" class="skill-icon-img">
-                        <div class="skill-name">Git</div>
-                    </div>
-                    <div class="skill-item">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" class="skill-icon-img">
-                        <div class="skill-name">HTML5</div>
-                    </div>
-                    <div class="skill-item">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" class="skill-icon-img">
-                        <div class="skill-name">Java</div>
-                    </div>
-                    <div class="skill-item">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" class="skill-icon-img">
-                        <div class="skill-name">Linux</div>
-                    </div>
-                    <div class="skill-item">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" class="skill-icon-img">
-                        <div class="skill-name">MySQL</div>
-                    </div>
-                    <div class="skill-item">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" class="skill-icon-img">
-                        <div class="skill-name">Python</div>
-                    </div>
-                    <div class="skill-item">
-                        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" class="skill-icon-img">
-                        <div class="skill-name">Unity</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="contact-links">
-            <a href="https://linkedin.com/in/gauri-suryawanshi" class="contact-link">
-                <span>💼</span> LinkedIn
-            </a>
-            <a href="https://www.codechef.com/users/band_dog_63" class="contact-link">
-                <span>👨‍💻</span> CodeChef
-            </a>
-        </div>
-
-        <div class="trophy-section">
-            <div class="card">
-                <h3>🏆 GitHub Trophies</h3>
-                <img src="https://github-profile-trophy.vercel.app/?username=s-au-23&theme=darkhub&no-frame=true&column=3&margin-w=15" alt="GitHub Trophies" class="trophy-image">
-            </div>
-        </div>
-
-        <div class="profile-views">
-            <img src="https://komarev.com/ghpvc/?username=s-au-23&label=Profile%20views&color=64ffda&style=for-the-badge" alt="Profile Views" class="views-badge">
-        </div>
-
-        <div class="github-stats">
-            <div class="stats-grid">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s-au-23&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0f0f1e&border_color=64ffda&title_color=64ffda&text_color=e1e1e6" alt="Top Languages" class="stats-image">
-                <img src="https://github-readme-stats.vercel.app/api?username=s-au-23&show_icons=true&locale=en&theme=dark&bg_color=0f0f1e&border_color=64ffda&title_color=64ffda&text_color=e1e1e6&icon_color=64ffda" alt="GitHub Stats" class="stats-image">
-            </div>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-au-23&theme=dark&background=0f0f1e&border=64ffda&stroke=64ffda&ring=64ffda&fire=ff6b9d&currStreakLabel=64ffda" alt="GitHub Streak" class="stats-image streak-stat">
-        </div>
-    </div>
-
-    <script>
-        // Create floating particles
-        function createParticles() {
-            const particlesContainer = document.getElementById('particles');
-            const particleCount = 30;
-
-            for (let i = 0; i < particleCount; i++) {
-                const particle = document.createElement('div');
-                particle.className = 'particle';
-                
-                const size = Math.random() * 4 + 2;
-                const posX = Math.random() * 100;
-                const posY = Math.random() * 100;
-                const delay = Math.random() * 6;
-                
-                particle.style.width = size + 'px';
-                particle.style.height = size + 'px';
-                particle.style.left = posX + '%';
-                particle.style.top = posY + '%';
-                particle.style.animationDelay = delay + 's';
-                
-                particlesContainer.appendChild(particle);
-            }
-        }
-
-        // Add staggered animation to cards
-        function animateCards() {
-            const cards = document.querySelectorAll('.card');
-            cards.forEach((card, index) => {
-                card.style.animationDelay = (3 + index * 0.2) + 's';
-            });
-        }
-
-        // Initialize
-        document.addEventListener('DOMContentLoaded', function() {
-            createParticles();
-            animateCards();
-            
-            // Remove typing cursor after animation
-            setTimeout(() => {
-                document.querySelector('.typing').style.borderRight = 'none';
-            }, 4000);
-        });
-
-        // Add some interactive hover effects
-        document.querySelectorAll('.skill-item').forEach(item => {
-            item.addEventListener('mouseenter', function() {
-                this.style.transform = 'scale(1.05) rotate(5deg)';
-            });
-            
-            item.addEventListener('mouseleave', function() {
-                this.style.transform = 'scale(1) rotate(0deg)';
-            });
-        });
-    </script>
-</body>
-</html>
+<div align="center">
+  <h3>💖 Show some love by starring some repositories!</h3>
+  
+  ![Visitor Count](https://profile-counter.glitch.me/s-au-23/count.svg)
+</div>

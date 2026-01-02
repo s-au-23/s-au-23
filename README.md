@@ -164,22 +164,3 @@ hobbies: ["Gaming", "Coding", "Learning new technologies"]
 
 <br/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/s-au-23/s-au-23/output/snake.svg" alt="Snake animation" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" />
-</div>
-
----
-
-<div align="center">
-  <h3>💖 Show some love by starring some repositories!</h3>
-  
-  ![Visitor Count](https://profile-counter.glitch.me/s-au-23/count.svg)
-</div>

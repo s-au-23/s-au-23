@@ -13,17 +13,23 @@
 ## 👩‍🎓 About Me
 
 - 🎓 Computer Science Student  
-- 🌐 Passionate about **Frontend Development**  
-- 💡 Interested in **UI, UX & Web Design**  
+- 🌐 Focused on **Frontend Development**  
+- 💡 Passionate about **UI, UX & Web Design**  
 - 🌱 Currently learning **JavaScript & React**  
-- 🚀 Building projects to strengthen real-world skills  
+- 🚀 Building projects to enhance real-world skills  
 
 ---
 
-## 🛠️ Frontend Tech Stack
+## 🛠️ Tech Stack & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
@@ -31,19 +37,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s-au-23&show_icons=true&theme=graywhite&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=s-au-23&show_icons=true&theme=radical&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=s-au-23&theme=graywhite&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-au-23&theme=radical&hide_border=false" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/s-au-23/s-au-23/output/github-contribution-grid-snake.svg" />
+  <img src="https://ghchart.rshah.org/s-au-23" alt="Gauri's GitHub chart" />
 </p>
 
 ---
@@ -52,15 +58,18 @@
 
 <p align="center">
   <a href="https://github.com/s-au-23" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Minimal • Clean • Student-Focused • Frontend</i>
+  <i>Clean • Professional • Frontend-Focused • Student-Friendly</i>
 </p>

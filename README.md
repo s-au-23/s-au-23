@@ -115,21 +115,14 @@ hobbies: ["Gaming", "Coding", "Learning new technologies"]
 
 <div align="center">
  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-au-23&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=FFFFFF" alt="Top Languages" />
+  <img width="49%" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=s-au-23&layout=compact&theme=radical)" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=s-au-23&theme=radical&hide_border=true&background=0D1117&stroke=64FFDA&ring=64FFDA&fire=FF6B9D&currStreakLabel=64FFDA" alt="GitHub Streak" />
 </div>
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s-au-23&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-au-23&theme=radical" />
-  <img src="https://github-profile-trophy.vercel.app/?username=s-au-23&theme=radical&no-frame=true&no-bg=false&margin-w=5" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-au-23&layout=compact&theme=radical" />
-</p>
 
 
 ## 🏆 GitHub Trophies

@@ -143,7 +143,7 @@ hobbies: ["Gaming", "Coding", "Learning new technologies"]
 ## 🤝 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/gauri-suryawanshi">
+  <a href="https://linkedin.com/in/gauri-suryawanshi23">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.codechef.com/users/band_dog_63">

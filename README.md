@@ -111,16 +111,6 @@ hobbies: ["Gaming", "Coding", "Learning new technologies"]
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
- 
-  <img width="49%" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=s-au-23&layout=compact&theme=radical)" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=s-au-23&theme=radical&hide_border=true&background=0D1117&stroke=64FFDA&ring=64FFDA&fire=FF6B9D&currStreakLabel=64FFDA" alt="GitHub Streak" />
-</div>
 
 
 

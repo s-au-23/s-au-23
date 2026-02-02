@@ -13,16 +13,16 @@
 ## 👩‍🎓 About Me
 
 - 🎓 Computer Science Student  
-- 🌐 Focused on **Frontend Development**  
-- 💡 Strong interest in **UI, UX & Web Design**  
+- 🌐 Passionate about **Frontend Development**  
+- 💡 Interested in **UI, UX & Web Design**  
 - 🌱 Currently learning **JavaScript & React**  
-- 🚀 Building projects to improve real-world skills  
+- 🚀 Building projects to strengthen real-world skills  
 
 ---
 
 ## 🛠️ Frontend Tech Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
 </p>
 
@@ -30,11 +30,11 @@
 
 ## 📊 GitHub Stats
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=s-au-23&show_icons=true&theme=graywhite&hide_border=true" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=s-au-23&theme=graywhite&hide_border=true" />
 </p>
 
@@ -42,7 +42,7 @@
 
 ## 🐍 Contribution Snake
 
-<p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/s-au-23/s-au-23/output/github-contribution-grid-snake.svg" />
 </p>
 
@@ -50,12 +50,12 @@
 
 ## 🔗 Connect With Me
 
-<p>
-  <a href="https://github.com/s-au-23">
+<p align="center">
+  <a href="https://github.com/s-au-23" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 

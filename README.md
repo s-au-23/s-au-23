@@ -1,51 +1,66 @@
 <h1 align="center">Hi 👋, I'm Gauri Suryawanshi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Frontend+Developer;Web+Developer;Creative+Coder;Lifelong+Learner" />
+  <b>Frontend Developer | CS Student | Web Enthusiast</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Frontend+Developer;HTML+CSS+JavaScript;Learning+React" />
 </p>
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍🎓 About Me
 
 - 🎓 Computer Science Student  
-- 💻 Passionate about **Web Development & Frontend Technologies**  
-- 🌱 Currently learning **React, JavaScript & Backend Basics**  
-- 🚀 Interested in building **real-world projects**  
-- 📫 Reach me at: ** suryawanshigauri23@gmail.com**
+- 🌐 Focused on **Frontend Development**  
+- 💡 Strong interest in **UI, UX & Web Design**  
+- 🌱 Currently learning **JavaScript & React**  
+- 🚀 Building projects to improve real-world skills  
+
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Frontend Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,flask,git,github,vscode" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s-au-23&show_icons=true&theme=tokyonight&hide_border=true" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=s-au-23&show_icons=true&theme=graywhite&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=s-au-23&theme=tokyonight&hide_border=true" />
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=s-au-23&theme=graywhite&hide_border=true" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 🐍 Contribution Snake
 
-<p align="left">
+<p>
+  <img src="https://raw.githubusercontent.com/s-au-23/s-au-23/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p>
   <a href="https://github.com/s-au-23">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
 ---
 
-⭐ *Thank you for visiting my profile! Feel free to explore my repositories.*
+<p align="center">
+  <i>Minimal • Clean • Student-Focused • Frontend</i>
+</p>

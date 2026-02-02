@@ -127,11 +127,11 @@ hobbies: ["Gaming", "Coding", "Learning new technologies"]
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="(https://github-profile-trophy.vercel.app/?username=s-au-23&theme=radical&no-frame=true&no-bg=false&margin-w=5)" />
-</div>
+## 🏆 GitHub Trophies
 
-<br/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=s-au-23&theme=radical&no-frame=true&no-bg=false&margin-w=5" />
+</p>
 
 ## 📈 Contribution Graph
 

@@ -128,7 +128,7 @@ hobbies: ["Gaming", "Coding", "Learning new technologies"]
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=s-au-23&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  <img src="(https://github-profile-trophy.vercel.app/?username=s-au-23&theme=radical&no-frame=true&no-bg=false&margin-w=5)" />
 </div>
 
 <br/>

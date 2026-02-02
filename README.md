@@ -12,8 +12,7 @@
 - 💻 Passionate about **Web Development & Frontend Technologies**  
 - 🌱 Currently learning **React, JavaScript & Backend Basics**  
 - 🚀 Interested in building **real-world projects**  
-- 📫 Reach me at: **your-email@example.com**
-
+- 📫 Reach me at: ** suryawanshigauri23@gmail.com**
 ---
 
 ### 🛠️ Tech Stack

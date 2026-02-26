@@ -12,7 +12,7 @@
 
 <!-- Visitor Badge -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gauri-suryawanshi23&style=for-the-badge&color=00ff41&labelColor=000000&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=s-au-23&style=for-the-badge&color=00ff41&labelColor=000000&label=PROFILE+VIEWS"/>
 </div>
 
 <br/>
@@ -78,15 +78,15 @@ object GauriSuryawanshi {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gauri-suryawanshi23&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=ffffff&ring_color=00ff41"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=s-au-23&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=ffffff&ring_color=00ff41"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauri-suryawanshi23&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-au-23&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=ffffff"/>
 
 </div>
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=gauri-suryawanshi23&theme=matrix&hide_border=true&background=0d0d0d&ring=00ff41&fire=39ff14&currStreakLabel=00ff41&sideLabels=00ff41&dates=aaaaaa)
+![Streak](https://streak-stats.demolab.com?user=s-au-23&theme=matrix&hide_border=true&background=0d0d0d&ring=00ff41&fire=39ff14&currStreakLabel=00ff41&sideLabels=00ff41&dates=aaaaaa)
 
 </div>
 
@@ -96,7 +96,7 @@ object GauriSuryawanshi {
 
 <div align="center">
 
-[![Gauri's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gauri-suryawanshi23&bg_color=0d0d0d&color=00ff41&line=00ff41&point=39ff14&area=true&area_color=003300&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/gauri-suryawanshi23)
+[![Gauri's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=s-au-23&bg_color=0d0d0d&color=00ff41&line=00ff41&point=39ff14&area=true&area_color=003300&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/s-au-23)
 
 </div>
 
@@ -121,7 +121,7 @@ $ gauri --status
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/gauri-suryawanshi23)
 [![Gmail](https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:suryawanshigauri23@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/gauri-suryawanshi23)
+[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/s-au-23)
 
 </div>
 

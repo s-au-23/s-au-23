@@ -32,8 +32,8 @@ Git • GitHub • Linux • MySQL
 ## GitHub Insights
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=s-au-23&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api?username=s-au-23&show_icons=true&theme=github_dark&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=s-au-23&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-au-23&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" height="165"/>
 </div>
 
 ---
@@ -41,5 +41,19 @@ Git • GitHub • Linux • MySQL
 <div align="center">
 
 Building with consistency. Growing with intention.
+
+</div>
+---
+
+## 🤝 Connect
+
+LinkedIn: https://linkedin.com/in/gauri-suryawanshi23  
+Email: suryawanshigauri23@gmail.com  
+
+---
+
+<div align="center">
+  
+✨ Creating structured code. Building meaningful software. Growing every day.
 
 </div>

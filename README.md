@@ -1,8 +1,3 @@
-<h2 align="center">Gauri Suryawanshi</h2>
-<p align="center">
-Frontend Developer | Android Developer | Computer Science Student
-</p>
-
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Gauri+Suryawanshi;Frontend+%7C+Android+Developer;Designing+Clean+Digital+Experiences" />
